@@ -56,4 +56,8 @@ Now let's move on to our `Doctor`/`Appointment`/`Patient` domain model.
 * The `Patient` class needs an instance method, `#appointments`, that returns the content of the `@appointments` array. 
 * The `Patient` class needs an instance method, `#doctors`, that iterates over that patient's appointments and collects the doctor that belongs to each appointment. 
 
+## Does this need an update?
+
+Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-ruby-objects-has-many-through-lab/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-ruby-objects-has-many-through-lab/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+
 <p data-visibility='hidden'>PHRG Ruby Object Relations: Has-Many-Through Lab</p>
